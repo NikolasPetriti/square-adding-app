@@ -1,10 +1,8 @@
-# Getting Started with Create React App
+This is a small task for practice in React, when clicking the sides of the boxes you can add another box, when double clicking a box you can edit the contend and you can print it or reset.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Capture](https://user-images.githubusercontent.com/113851733/230579355-d9a4371c-6a60-427c-8b5c-018c71832f9e.PNG)
 
-## Available Scripts
-
-In the project directory, you can run:
+![Capture2](https://user-images.githubusercontent.com/113851733/230579364-04a2f4d2-889a-4bbe-b893-a489c6ce37a4.PNG)
 
 ### `npm start`
 
